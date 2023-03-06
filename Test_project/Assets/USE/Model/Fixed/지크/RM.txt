@@ -1,0 +1,9 @@
+﻿model
+base:TDA/jjinomu/REe
+hair:mihoyo
+clohes:mihoyo/轻音酱
+face:TDA/Demorot/zyrvix/REe
+
+eidt:REe
+
+使用条约以TDA的为准
